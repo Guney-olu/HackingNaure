@@ -1,25 +1,24 @@
-What we did ?
-Translating between DNA and protein sequences using predefined genetic codes.
+* What we did ?
 
-"MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQ" is a protein sequence. Each three-letter combination in this sequence represents an amino acid
+  Translating between DNA and protein sequences using predefined genetic codes.
 
-"attaaaggtt" sequence is a fragment of a DNA sequence and its associated amino acid translations. For example, 'ATA' in the DNA sequence corresponds to the amino acid 'I' (Isoleucine).
-Each three-letter DNA sequence is called a codon, and it codes for a specific amino acid in the protein
+* Protein Sequence
 
-'ATA' codes for Isoleucine ('I')
-'ATC' codes for Isoleucine ('I')
-'ATT' codes for Isoleucine ('I')
-'ATG' codes for Methionine ('M')
+  The protein sequence "MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQ" is represented by three-letter combinations, where each triplet corresponds to an amino acid.
 
-# It do represent the full complexity of the genetic code found in living organisms
+* DNA Sequence and Amino Acid Translations
 
-Cool Terms
+  The sequence "attaaaggtt" is a fragment of a DNA sequence with associated amino acid translations. Each three-letter DNA sequence, known as a codon, codes for a specific amino acid in the protein:
 
-A gene is a segment of DNA that contains the instructions for making a specific protein or functional RNA molecule. 
-Genes are composed of sequences of nucleotide bases, also known as base pairs. 
-The four nucleotide bases found in DNA are adenine (A), thymine (T), cytosine (C), and guanine (G). 
-The sequence of these bases encodes the genetic information necessary for the synthesis of proteins and the regulation of various cellular processes
+  - 'ATA' codes for Isoleucine ('I')
+  - 'ATC' codes for Isoleucine ('I')
+  - 'ATT' codes for Isoleucine ('I')
+  - 'ATG' codes for Methionine ('M')
 
-The term "base pair" refers to the complementary pairing of nucleotides in the DNA double helix. 
-Adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G).
-This complementary base pairing ensures the accurate transmission of genetic information during processes like DNA replication and transcription\
+  Note: This representation doesn't capture the full complexity of the genetic code found in living organisms.
+
+* Cool Terms
+
+  - **Gene**: A segment of DNA that contains instructions for making a specific protein or functional RNA molecule. Genes are composed of sequences of nucleotide bases (adenine, thymine, cytosine, and guanine).
+  
+  - **Base Pair**: Refers to the complementary pairing of nucleotides in the DNA double helix. Adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G). This complementary base pairing ensures the accurate transmission of genetic information during processes like DNA replication and transcription.
